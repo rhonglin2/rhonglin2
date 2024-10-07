@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Rui Hong 👋
+What interests me about computer science is the wide range of possibilities and usages that it has. I’ve always used a computer for as long as I can remember and whenever I played any kind of video games, I wondered how they were made and the amount of effort put into them. 
+
+I started coding when I was in second grade with the block code version of Turtle to draw a square. From there, I learned the basics of programming and eventually created a platformer game. 
+
+I enjoy coding for the challenge of thinking outside the box. There are a lot of ways to solve an issue and I enjoy learning these different ways. Currently, my goal is to continue expanding my knowledge of programming languages.
 
 <!--
 **rhonglin2/rhonglin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

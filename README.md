@@ -14,7 +14,7 @@ I enjoy coding for the challenge of thinking outside the box. There are a lot of
 
 &nbsp;&nbsp;&nbsp;
 ![Tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-blue)
+![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![vim](https://img.shields.io/badge/-vim-3b883b?logo=vim) <!--https://img.shields.io/badge/Vim-3b883b?style=for-the-badge&logo=vim-->
 
 <!--

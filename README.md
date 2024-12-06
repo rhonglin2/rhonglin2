@@ -11,7 +11,7 @@ I enjoy coding for the challenge of thinking outside the box. There are a lot of
 ![C/C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-4584b6?logo=python&logoColor=ffde57) <!--https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54-->
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) <!--https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white-->
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff&style=for-the-badge)
 
 &nbsp;&nbsp;&nbsp;
